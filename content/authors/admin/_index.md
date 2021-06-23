@@ -30,7 +30,7 @@ education:
   - course: (Current) BS in Computer Science
     institution: University of Central Florida
     year:
-  - course: (Current)BS in Computational Mathematics
+  - course: (Current) BS in Computational Mathematics
     institution: University of Central Florida
     year:
 
