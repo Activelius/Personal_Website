@@ -38,7 +38,7 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-- icon: github
+- icon: "github"
   icon_pack: "custom"
   name: "Surfing"
   description: "90%"
