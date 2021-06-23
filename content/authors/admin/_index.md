@@ -6,7 +6,7 @@ title: Alexander Ruiz-Tagle
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Computational Mathematics and Computer Science at UCF
 
 # Organizations/Affiliations to show in About widget
 organizations:
