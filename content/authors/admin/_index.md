@@ -27,10 +27,10 @@ education:
   - course: A.A in Computer Science
     institution: Valencia College
     year: 2018
-  - course:(Current) BS in Computer Science
+  - course: BS in Computer Science
     institution: University of Central Florida
     year:
-  - course:(Current) BS in Computational Mathematics
+  - course: BS in Computational Mathematics
     institution: University of Central Florida
     year:
 
